@@ -1,4 +1,4 @@
-# Scholarships & Fellowships for undergraduate students
+# Scholarships & Fellowships for Electronic Engineering students
 A curated list of fellowships and scholarships for undergraduate students from Electronic Engineering and related fields. The repository was forked from its creator, [Chinasa T. Okolo](http://www.chinasaokolo.com), a Computer Science PhD student at Cornell.
 
 Definitely take advantage of these opportunities below by applying to scholarships and/or fellowships:
